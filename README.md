@@ -1,6 +1,11 @@
 # myfirstrepo
 various images to be referenced by other projects, mainly for css stylesheets
+-
+-
+-
+-
 LIST:
+
 0missionaccomplished.jpg a wallpaper, a joke from the SomethingAwful forums.
 0theirpropaganda.png wallpaper, a reminder for when times are dark
 FBYboLQXsAAW7JF.jpg wallpaper, a devilish moon rises over a church
